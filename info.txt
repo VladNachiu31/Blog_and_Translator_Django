@@ -1,0 +1,10 @@
+django-admin startproject web_project . - new project
+
+python manage.py runserver - run app
+
+python manage.py migrate   -create database in django
+
+python manage.py startapp 'nameoftheapp - create app inside django
+
+python manage.py makemigrations - new changes 1
+python manage.py migrate   - new changes 2 update the entire djnago
